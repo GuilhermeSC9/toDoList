@@ -8,21 +8,21 @@
     "packages": [
         {
             "name": "coffeecode/datalayer",
-            "version": "1.1.7",
+            "version": "1.1.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/robsonvleite/datalayer.git",
-                "reference": "6a51fa227bba003be11519e7efa8338bc87460f5"
+                "reference": "52e209190752eccc0bfd8ff3abcdd607ed4c01c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/robsonvleite/datalayer/zipball/6a51fa227bba003be11519e7efa8338bc87460f5",
-                "reference": "6a51fa227bba003be11519e7efa8338bc87460f5",
+                "url": "https://api.github.com/repos/robsonvleite/datalayer/zipball/52e209190752eccc0bfd8ff3abcdd607ed4c01c1",
+                "reference": "52e209190752eccc0bfd8ff3abcdd607ed4c01c1",
                 "shasum": ""
             },
             "require": {
                 "ext-pdo": "*",
-                "php": "^7.2"
+                "php": ">=7.2"
             },
             "type": "library",
             "autoload": {
@@ -55,9 +55,9 @@
             ],
             "support": {
                 "issues": "https://github.com/robsonvleite/datalayer/issues",
-                "source": "https://github.com/robsonvleite/datalayer/tree/1.1.7"
+                "source": "https://github.com/robsonvleite/datalayer/tree/1.1.8"
             },
-            "time": "2020-07-02T17:10:50+00:00"
+            "time": "2021-03-21T14:00:57+00:00"
         },
         {
             "name": "firebase/php-jwt",
